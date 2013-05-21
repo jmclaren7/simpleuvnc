@@ -1,0 +1,39 @@
+
+18:24:45> Multiple Hosts Proccessing
+18:24:45> Create Main GUI
+18:24:45> Create GUI - Select Connection
+18:24:45> Create GUI - Command Box
+18:24:45> Create GUI - Combo
+18:24:45> Create GUI - Tips
+18:24:45> Window Show
+18:24:45> Command Line Proccessing
+18:24:45> No Command Line
+18:24:45> Starting GUI Loop.................................................
+19:57:15> Multiple Hosts Proccessing
+19:57:15> Create Main GUI
+19:57:15> Create GUI - Select Connection
+19:57:15> Create GUI - Command Box
+19:57:15> Create GUI - Combo
+19:57:15> Create GUI - Tips
+19:57:15> Window Show
+19:57:15> Command Line Proccessing
+19:57:15> No Command Line
+19:57:15> Starting GUI Loop..................
+19:57:28> Pressed Connect Button.
+19:57:42> Function - file install
+19:57:42> Clearing And Making Temp Directory - 001
+19:57:42> Extracting Files - 1111
+19:57:42> Updating INI File
+19:57:42> Function - connection start.
+19:57:43> Starting Service In Mode 1
+19:57:43> Function - service start
+19:57:43> Installing Service
+19:57:43> Starting Service
+19:57:44> Waiting For Service To Start.
+19:57:45> Waiting For Helper.............. (Timeout)
+19:57:55> Static Sleep..
+19:57:57> Starting Connection
+19:57:57> "C:\Users\JOHNMC~1\AppData\Local\Temp\uvnc_autoit\winvnc_autoit.exe" -autoreconnect -connect 10.3.2.151:5500.
+19:57:57> GUI - Updating.
+19:57:58> Function - GUI Connection Started
+19:57:58> Updating GUI1 Done........................
