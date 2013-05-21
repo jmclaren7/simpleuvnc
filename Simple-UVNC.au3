@@ -1,12 +1,12 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_icon=icon.ico
-#AutoIt3Wrapper_outfile=UVNC-Helper-Beta.exe
+#AutoIt3Wrapper_outfile=Simple-UVNC.exe
 #AutoIt3Wrapper_Compression=0
 #AutoIt3Wrapper_UseUpx=n
 #AutoIt3Wrapper_Change2CUI=y
-#AutoIt3Wrapper_Res_Description=TeamMC UVNC-Helper
-#AutoIt3Wrapper_Res_Fileversion=3.1.5.25
-#AutoIt3Wrapper_Res_Fileversion_AutoIncrement=y
+#AutoIt3Wrapper_Res_Description=Simple-UVNC
+#AutoIt3Wrapper_Res_Fileversion=4.0.0
+#AutoIt3Wrapper_Res_Fileversion_AutoIncrement=n
 #AutoIt3Wrapper_Res_Language=1033
 #AutoIt3Wrapper_Res_requestedExecutionLevel=highestAvailable
 #AutoIt3Wrapper_Run_Obfuscator=n
