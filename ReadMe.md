@@ -1,8 +1,8 @@
 # Simple UVNC
-A simple way for the people you support to establish a reverse VNC connection.
+A simple way for the people you support to establish a reverse VNC connection to a VNC viewer in listen mode.
 
 ## Downloads
-Latest Beta Release: [4.0.0.1](http://teammc.cc/uvnc/UVNC-Helper-Beta.exe) (.exe)  
+Latest Beta Release: [4.0.0 Build: ?](http://teammc.cc/uvnc/UVNC-Helper-Beta.exe) (.exe)  
 Latest Stable Release: [3.1.5](http://teammc.cc/uvnc/UVNC-Helper.exe) (.exe)
 
 ## About
