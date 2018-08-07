@@ -1,3 +1,5 @@
+### This project was uploaded only for posterity and is not supported or recomended for use
+
 # Simple UVNC
 A simple way for the people you support to establish a reverse VNC connection to a VNC viewer in listen mode.
 
